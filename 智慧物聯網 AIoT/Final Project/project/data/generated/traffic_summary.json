@@ -1,0 +1,19 @@
+{
+  "vehicle_routes": "D:\\長庚\\大三下\\智慧物聯網\\project\\data\\generated\\real_vehicle_flows.rou.xml",
+  "pedestrian_routes": "D:\\長庚\\大三下\\智慧物聯網\\project\\data\\generated\\real_pedestrians.rou.xml",
+  "pedestrian_meta": {
+    "source_kind": "yolo_baseline",
+    "source_note": "Auto-generated from YOLO event stream; observed_seconds=42.1; raw_phase0=0; raw_phase5=1; raw_unknown=0",
+    "signal_position_lon": 121.54375,
+    "signal_position_lat": 25.041613,
+    "phase0_group_hourly": 0,
+    "phase5_group_hourly": 86,
+    "slow_share": 1.0,
+    "is_real_pedestrian_data": true,
+    "is_official_pedestrian_data": false
+  },
+  "notes": [
+    "Vehicle flows are derived from nearby official Taipei VD section volumes.",
+    "Pedestrian flows are only considered real when source_kind is official_survey."
+  ]
+}

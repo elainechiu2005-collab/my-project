@@ -1,0 +1,2 @@
+official_icid,phase0_group_hourly,phase5_group_hourly,slow_share,source_kind,source_note,last_updated_utc,observed_seconds,phase0_count,phase5_count,unknown_count,avg_speed_mps
+IJHM7,0,788,1.0,yolo_baseline,Auto-generated from YOLO event stream; observed_seconds=315.2; raw_phase0=0; raw_phase5=69; raw_unknown=0,2026-05-14T06:06:29+00:00,315.2,0,69,0,0.0

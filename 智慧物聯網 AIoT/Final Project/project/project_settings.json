@@ -1,0 +1,83 @@
+{
+  "network": {
+    "net_file": "taipei.net.xml",
+    "osm_file": "taipei.osm",
+    "gui_settings_file": "gui-settings.cfg"
+  },
+  "study_area": {
+    "name": "Zhongxiao East Rd Sec. 3 / Fuxing S. Rd Sec. 1",
+    "center": {
+      "lat": 25.041613,
+      "lon": 121.54375
+    },
+    "radius_m": 450
+  },
+  "target_tls": {
+    "sumo_tls_id": "cluster_181184587_253559061_618865977_618865982",
+    "official_icid": "IJHM7",
+    "official_device_id": "SJHM710",
+    "official_name": "忠孝東三段　　復興南一段",
+    "official_name_aliases": [
+      "忠孝東三段 復興南一段",
+      "忠孝東三段",
+      "復興南一段"
+    ],
+    "weekday_segmenttype": 1,
+    "saturday_segmenttype": 6,
+    "sunday_segmenttype": 7,
+    "green_extension_slow_seconds": 8,
+    "green_extension_danger_seconds": 15,
+    "pending_extension_max_age": 45
+  },
+  "simulation": {
+    "start_clock": "07:00",
+    "duration_seconds": 3600,
+    "sumo_binary": "sumo-gui",
+    "tripinfo_output": "data/generated/tripinfo.xml",
+    "gui_delay_ms": 150
+  },
+  "traffic_generation": {
+    "vehicle_class_split": {
+      "passenger": 0.86,
+      "bus": 0.06,
+      "truck": 0.08
+    },
+    "turn_ratio": {
+      "left": 0.2,
+      "through": 0.6,
+      "right": 0.2
+    },
+    "minimum_flow_per_hour": 24,
+    "proxy_missing_edge_volume": true
+  },
+  "pedestrian_generation": {
+    "counts_csv": "data/manual/pedestrian_counts.csv",
+    "latest_survey_year": 112,
+    "strict_real_counts": false,
+    "default_slow_share": 0.18
+  },
+  "yolo_bridge": {
+    "enabled": true,
+    "host": "127.0.0.1",
+    "port": 8765,
+    "route": "/events",
+    "counts_csv": "data/generated/yolo_pedestrian_counts.csv",
+    "state_json": "data/generated/yolo_pedestrian_state.json",
+    "event_log": "data/generated/traci_event_log.txt",
+    "flush_interval_seconds": 5,
+    "track_dedupe_seconds": 90
+  },
+  "data_sources": {
+    "timing_plan_url": "https://tcgbusfs.blob.core.windows.net/dotapp/timing_plan.json",
+    "timing_schedule_url": "https://tcgbusfs.blob.core.windows.net/dotapp/timing_plan_table.json",
+    "vd_section_url": "https://tcgbusfs.blob.core.windows.net/blobtisv/GetVD.xml",
+    "vd_live_url": "https://tcgbusfs.blob.core.windows.net/blobtisv/GetVDDATA.xml",
+    "signal_positions_dataset": "https://data.taipei/dataset/detail?id=4a599738-6550-448a-9a78-03b26c67e249",
+    "pedestrian_survey_dataset": "https://data.taipei/dataset/detail?id=597f6bde-8117-45e5-a1ab-1ba184d516b3",
+    "pedestrian_survey_pdf": "https://data.taipei/api/dataset/597f6bde-8117-45e5-a1ab-1ba184d516b3/resource/c4738fa0-d214-4f11-b07b-725a9aba695f/download"
+  },
+  "paths": {
+    "raw_dir": "data/raw",
+    "generated_dir": "data/generated"
+  }
+}

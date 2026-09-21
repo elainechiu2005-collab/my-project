@@ -1,0 +1,16 @@
+{
+  "official_icid": "IJHM7",
+  "source_kind": "yolo_baseline",
+  "source_note": "Auto-generated from YOLO event stream; observed_seconds=315.2; raw_phase0=0; raw_phase5=69; raw_unknown=0",
+  "last_updated_utc": "2026-05-14T06:06:29+00:00",
+  "observed_seconds": 315.2,
+  "phase0_count": 0,
+  "phase5_count": 69,
+  "unknown_count": 0,
+  "phase0_group_hourly": 0,
+  "phase5_group_hourly": 788,
+  "slow_share": 1.0,
+  "avg_speed_mps": 0.0,
+  "is_real_pedestrian_data": true,
+  "is_official_pedestrian_data": false
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <input>
+        <!-- 把下面這行的 your_network 換成你的 .net.xml 檔名 -->
+        <net-file value="your_network.net.xml"/>
+        <route-files value="vehicles.rou.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+        <step-length value="1.0"/>
+    </time>
+</configuration>

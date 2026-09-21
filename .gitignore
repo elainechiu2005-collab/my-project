@@ -1,13 +1,7 @@
-# Xcode
-DerivedData/
-build/
-*.xcuserstate
-xcuserdata/
+# Python cache
+__pycache__/
+*.pyc
 
-# macOS
-.DS_Store
+# Model cache
+畢業專題/ios_app/MobileCLIPExplore/Models/.model-cache/
 
-# Core ML models
-*.mlmodelc/
-*.mlpackage/
-.model-cache/

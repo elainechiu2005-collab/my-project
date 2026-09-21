@@ -1,0 +1,13 @@
+{
+  "source_pdf": "D:\\長庚\\大三下\\智慧物聯網\\project\\data\\raw\\pedestrian_survey_112.pdf",
+  "latest_survey_year": 112,
+  "page_count": 73,
+  "official_intersection_name": "忠孝東三段　　復興南一段",
+  "exact_name_found": false,
+  "alias_hits": [],
+  "target_intersection_covered": false,
+  "notes": [
+    "The status is based on searchable text extraction from the latest published pedestrian survey PDF.",
+    "If target_intersection_covered is false, this project cannot honestly claim an official pedestrian count for IJHM7 without a separate field count."
+  ]
+}

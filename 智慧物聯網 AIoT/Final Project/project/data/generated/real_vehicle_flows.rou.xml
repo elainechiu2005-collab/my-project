@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="passenger" accel="2.6" decel="4.5" sigma="0.5" length="5.0" maxSpeed="13.9" guiShape="passenger"/>
+    <vType id="bus" accel="1.2" decel="4.0" sigma="0.5" length="12.0" maxSpeed="12.5" guiShape="bus"/>
+    <vType id="truck" accel="1.1" decel="4.0" sigma="0.5" length="8.0" maxSpeed="11.1" guiShape="truck"/>
+    <flow id="passenger_405980657_1_0" type="passenger" begin="0" end="3600" number="4" departLane="best" departSpeed="max">
+        <route edges="405980657#1 196961202#0"/>
+    </flow>
+    <flow id="passenger_405980657_1_1" type="passenger" begin="0" end="3600" number="10" departLane="best" departSpeed="max">
+        <route edges="405980657#1 198922264#0"/>
+    </flow>
+    <flow id="passenger_405980657_1_2" type="passenger" begin="0" end="3600" number="4" departLane="best" departSpeed="max">
+        <route edges="405980657#1 348745652"/>
+    </flow>
+    <flow id="passenger_405980657_1_3" type="passenger" begin="0" end="3600" number="3" departLane="best" departSpeed="max">
+        <route edges="405980657#1 623877957#0"/>
+    </flow>
+    <flow id="bus_405980657_1_3" type="bus" begin="0" end="3600" number="1" departLane="best" departSpeed="max">
+        <route edges="405980657#1 623877957#0"/>
+    </flow>
+    <flow id="truck_405980657_1_1" type="truck" begin="0" end="3600" number="1" departLane="best" departSpeed="max">
+        <route edges="405980657#1 198922264#0"/>
+    </flow>
+    <flow id="truck_405980657_1_3" type="truck" begin="0" end="3600" number="1" departLane="best" departSpeed="max">
+        <route edges="405980657#1 623877957#0"/>
+    </flow>
+    <flow id="passenger_506316041_3_0" type="passenger" begin="0" end="3600" number="10" departLane="best" departSpeed="max">
+        <route edges="506316041#3 196961202#0"/>
+    </flow>
+    <flow id="passenger_506316041_3_1" type="passenger" begin="0" end="3600" number="4" departLane="best" departSpeed="max">
+        <route edges="506316041#3 198922264#0"/>
+    </flow>
+    <flow id="passenger_506316041_3_2" type="passenger" begin="0" end="3600" number="4" departLane="best" departSpeed="max">
+        <route edges="506316041#3 348745652"/>
+    </flow>
+    <flow id="passenger_506316041_3_3" type="passenger" begin="0" end="3600" number="3" departLane="best" departSpeed="max">
+        <route edges="506316041#3 623877957#0"/>
+    </flow>
+    <flow id="bus_506316041_3_3" type="bus" begin="0" end="3600" number="1" departLane="best" departSpeed="max">
+        <route edges="506316041#3 623877957#0"/>
+    </flow>
+    <flow id="truck_506316041_3_0" type="truck" begin="0" end="3600" number="1" departLane="best" departSpeed="max">
+        <route edges="506316041#3 196961202#0"/>
+    </flow>
+    <flow id="truck_506316041_3_3" type="truck" begin="0" end="3600" number="1" departLane="best" departSpeed="max">
+        <route edges="506316041#3 623877957#0"/>
+    </flow>
+    <flow id="passenger_506322861_1_0" type="passenger" begin="0" end="3600" number="4" departLane="best" departSpeed="max">
+        <route edges="506322861#1 196961202#0"/>
+    </flow>
+    <flow id="passenger_506322861_1_1" type="passenger" begin="0" end="3600" number="4" departLane="best" departSpeed="max">
+        <route edges="506322861#1 198922264#0"/>
+    </flow>
+    <flow id="passenger_506322861_1_2" type="passenger" begin="0" end="3600" number="4" departLane="best" departSpeed="max">
+        <route edges="506322861#1 348745652"/>
+    </flow>
+    <flow id="passenger_506322861_1_3" type="passenger" begin="0" end="3600" number="9" departLane="best" departSpeed="max">
+        <route edges="506322861#1 623877957#0"/>
+    </flow>
+    <flow id="bus_506322861_1_3" type="bus" begin="0" end="3600" number="1" departLane="best" departSpeed="max">
+        <route edges="506322861#1 623877957#0"/>
+    </flow>
+    <flow id="truck_506322861_1_3" type="truck" begin="0" end="3600" number="2" departLane="best" departSpeed="max">
+        <route edges="506322861#1 623877957#0"/>
+    </flow>
+    <flow id="passenger_623877960_1_0" type="passenger" begin="0" end="3600" number="4" departLane="best" departSpeed="max">
+        <route edges="623877960#1 196961202#0"/>
+    </flow>
+    <flow id="passenger_623877960_1_1" type="passenger" begin="0" end="3600" number="4" departLane="best" departSpeed="max">
+        <route edges="623877960#1 198922264#0"/>
+    </flow>
+    <flow id="passenger_623877960_1_2" type="passenger" begin="0" end="3600" number="10" departLane="best" departSpeed="max">
+        <route edges="623877960#1 348745652"/>
+    </flow>
+    <flow id="passenger_623877960_1_3" type="passenger" begin="0" end="3600" number="3" departLane="best" departSpeed="max">
+        <route edges="623877960#1 623877957#0"/>
+    </flow>
+    <flow id="bus_623877960_1_3" type="bus" begin="0" end="3600" number="1" departLane="best" departSpeed="max">
+        <route edges="623877960#1 623877957#0"/>
+    </flow>
+    <flow id="truck_623877960_1_2" type="truck" begin="0" end="3600" number="1" departLane="best" departSpeed="max">
+        <route edges="623877960#1 348745652"/>
+    </flow>
+    <flow id="truck_623877960_1_3" type="truck" begin="0" end="3600" number="1" departLane="best" departSpeed="max">
+        <route edges="623877960#1 623877957#0"/>
+    </flow>
+</routes>

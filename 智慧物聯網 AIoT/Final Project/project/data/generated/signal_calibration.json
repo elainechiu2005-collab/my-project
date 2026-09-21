@@ -1,0 +1,2325 @@
+{
+  "generated_at": "2026-05-01T00:09:10",
+  "official_icid": "IJHM7",
+  "official_name": "忠孝東三段　　復興南一段",
+  "tls_id": "cluster_181184587_253559061_618865977_618865982",
+  "base_logic": [
+    {
+      "duration": "28",
+      "state": "rrrrrrgGGGggrrrrrrgGGGGrrGGrGG"
+    },
+    {
+      "duration": "5",
+      "state": "rrrrrrgGGGggrrrrrrgGGGGrrrrrrr"
+    },
+    {
+      "duration": "6",
+      "state": "rrrrrryyyyggrrrrrryyyyyrrrrrrr"
+    },
+    {
+      "duration": "6",
+      "state": "rrrrrrrrrrGGrrrrrrrrrrrGGrrrrr"
+    },
+    {
+      "duration": "6",
+      "state": "rrrrrrrrrryyrrrrrrrrrrryyrrrrr"
+    },
+    {
+      "duration": "28",
+      "state": "GGGGggrrrrrrGGGGggrrrrrrrrrGrr"
+    },
+    {
+      "duration": "5",
+      "state": "GGGGggrrrrrrGGGGggrrrrrrrrrrrr"
+    },
+    {
+      "duration": "6",
+      "state": "yyyyyyrrrrrryyyyyyrrrrrrrrrrrr"
+    }
+  ],
+  "segment_schedules": [
+    {
+      "segmenttype": 1,
+      "subsegment": [
+        {
+          "subsegment_id": 1,
+          "time": "0000",
+          "plan_id": "5"
+        },
+        {
+          "subsegment_id": 2,
+          "time": "0100",
+          "plan_id": "6"
+        },
+        {
+          "subsegment_id": 3,
+          "time": "0500",
+          "plan_id": "1"
+        },
+        {
+          "subsegment_id": 4,
+          "time": "0700",
+          "plan_id": "9"
+        },
+        {
+          "subsegment_id": 5,
+          "time": "0900",
+          "plan_id": "4"
+        },
+        {
+          "subsegment_id": 6,
+          "time": "1300",
+          "plan_id": "2"
+        },
+        {
+          "subsegment_id": 7,
+          "time": "1630",
+          "plan_id": "10"
+        },
+        {
+          "subsegment_id": 8,
+          "time": "1900",
+          "plan_id": "8"
+        },
+        {
+          "subsegment_id": 9,
+          "time": "2200",
+          "plan_id": "8"
+        },
+        {
+          "subsegment_id": 10,
+          "time": "2300",
+          "plan_id": "5"
+        }
+      ]
+    },
+    {
+      "segmenttype": 2,
+      "subsegment": [
+        {
+          "subsegment_id": 1,
+          "time": "0000",
+          "plan_id": "5"
+        },
+        {
+          "subsegment_id": 2,
+          "time": "0100",
+          "plan_id": "6"
+        },
+        {
+          "subsegment_id": 3,
+          "time": "0500",
+          "plan_id": "1"
+        },
+        {
+          "subsegment_id": 4,
+          "time": "0700",
+          "plan_id": "9"
+        },
+        {
+          "subsegment_id": 5,
+          "time": "0900",
+          "plan_id": "4"
+        },
+        {
+          "subsegment_id": 6,
+          "time": "1300",
+          "plan_id": "2"
+        },
+        {
+          "subsegment_id": 7,
+          "time": "1630",
+          "plan_id": "10"
+        },
+        {
+          "subsegment_id": 8,
+          "time": "1900",
+          "plan_id": "8"
+        },
+        {
+          "subsegment_id": 9,
+          "time": "2200",
+          "plan_id": "8"
+        },
+        {
+          "subsegment_id": 10,
+          "time": "2300",
+          "plan_id": "5"
+        }
+      ]
+    },
+    {
+      "segmenttype": 3,
+      "subsegment": [
+        {
+          "subsegment_id": 1,
+          "time": "0000",
+          "plan_id": "5"
+        },
+        {
+          "subsegment_id": 2,
+          "time": "0100",
+          "plan_id": "6"
+        },
+        {
+          "subsegment_id": 3,
+          "time": "0500",
+          "plan_id": "1"
+        },
+        {
+          "subsegment_id": 4,
+          "time": "0700",
+          "plan_id": "9"
+        },
+        {
+          "subsegment_id": 5,
+          "time": "0900",
+          "plan_id": "4"
+        },
+        {
+          "subsegment_id": 6,
+          "time": "1300",
+          "plan_id": "2"
+        },
+        {
+          "subsegment_id": 7,
+          "time": "1630",
+          "plan_id": "10"
+        },
+        {
+          "subsegment_id": 8,
+          "time": "1900",
+          "plan_id": "8"
+        },
+        {
+          "subsegment_id": 9,
+          "time": "2200",
+          "plan_id": "8"
+        },
+        {
+          "subsegment_id": 10,
+          "time": "2300",
+          "plan_id": "5"
+        }
+      ]
+    },
+    {
+      "segmenttype": 4,
+      "subsegment": [
+        {
+          "subsegment_id": 1,
+          "time": "0000",
+          "plan_id": "5"
+        },
+        {
+          "subsegment_id": 2,
+          "time": "0100",
+          "plan_id": "6"
+        },
+        {
+          "subsegment_id": 3,
+          "time": "0500",
+          "plan_id": "1"
+        },
+        {
+          "subsegment_id": 4,
+          "time": "0700",
+          "plan_id": "9"
+        },
+        {
+          "subsegment_id": 5,
+          "time": "0900",
+          "plan_id": "4"
+        },
+        {
+          "subsegment_id": 6,
+          "time": "1300",
+          "plan_id": "2"
+        },
+        {
+          "subsegment_id": 7,
+          "time": "1630",
+          "plan_id": "10"
+        },
+        {
+          "subsegment_id": 8,
+          "time": "1900",
+          "plan_id": "8"
+        },
+        {
+          "subsegment_id": 9,
+          "time": "2200",
+          "plan_id": "8"
+        },
+        {
+          "subsegment_id": 10,
+          "time": "2300",
+          "plan_id": "5"
+        }
+      ]
+    },
+    {
+      "segmenttype": 5,
+      "subsegment": [
+        {
+          "subsegment_id": 1,
+          "time": "0000",
+          "plan_id": "5"
+        },
+        {
+          "subsegment_id": 2,
+          "time": "0100",
+          "plan_id": "6"
+        },
+        {
+          "subsegment_id": 3,
+          "time": "0500",
+          "plan_id": "1"
+        },
+        {
+          "subsegment_id": 4,
+          "time": "0700",
+          "plan_id": "9"
+        },
+        {
+          "subsegment_id": 5,
+          "time": "0900",
+          "plan_id": "4"
+        },
+        {
+          "subsegment_id": 6,
+          "time": "1300",
+          "plan_id": "2"
+        },
+        {
+          "subsegment_id": 7,
+          "time": "1630",
+          "plan_id": "10"
+        },
+        {
+          "subsegment_id": 8,
+          "time": "1900",
+          "plan_id": "8"
+        },
+        {
+          "subsegment_id": 9,
+          "time": "2200",
+          "plan_id": "8"
+        },
+        {
+          "subsegment_id": 10,
+          "time": "2300",
+          "plan_id": "5"
+        }
+      ]
+    },
+    {
+      "segmenttype": 5,
+      "subsegment": [
+        {
+          "subsegment_id": 1,
+          "time": "0000",
+          "plan_id": "5"
+        },
+        {
+          "subsegment_id": 2,
+          "time": "0100",
+          "plan_id": "6"
+        },
+        {
+          "subsegment_id": 3,
+          "time": "0500",
+          "plan_id": "1"
+        },
+        {
+          "subsegment_id": 4,
+          "time": "0700",
+          "plan_id": "9"
+        },
+        {
+          "subsegment_id": 5,
+          "time": "0900",
+          "plan_id": "4"
+        },
+        {
+          "subsegment_id": 6,
+          "time": "1300",
+          "plan_id": "2"
+        },
+        {
+          "subsegment_id": 7,
+          "time": "1630",
+          "plan_id": "10"
+        },
+        {
+          "subsegment_id": 8,
+          "time": "1900",
+          "plan_id": "8"
+        },
+        {
+          "subsegment_id": 9,
+          "time": "2200",
+          "plan_id": "8"
+        },
+        {
+          "subsegment_id": 10,
+          "time": "2300",
+          "plan_id": "5"
+        }
+      ]
+    },
+    {
+      "segmenttype": 6,
+      "subsegment": [
+        {
+          "subsegment_id": 1,
+          "time": "0000",
+          "plan_id": "5"
+        },
+        {
+          "subsegment_id": 2,
+          "time": "0100",
+          "plan_id": "6"
+        },
+        {
+          "subsegment_id": 3,
+          "time": "0500",
+          "plan_id": "1"
+        },
+        {
+          "subsegment_id": 4,
+          "time": "0700",
+          "plan_id": "3"
+        },
+        {
+          "subsegment_id": 5,
+          "time": "0900",
+          "plan_id": "3"
+        },
+        {
+          "subsegment_id": 6,
+          "time": "1100",
+          "plan_id": "13"
+        },
+        {
+          "subsegment_id": 7,
+          "time": "1200",
+          "plan_id": "13"
+        },
+        {
+          "subsegment_id": 8,
+          "time": "2000",
+          "plan_id": "12"
+        },
+        {
+          "subsegment_id": 9,
+          "time": "2040",
+          "plan_id": "3"
+        },
+        {
+          "subsegment_id": 10,
+          "time": "2300",
+          "plan_id": "5"
+        }
+      ]
+    },
+    {
+      "segmenttype": 7,
+      "subsegment": [
+        {
+          "subsegment_id": 1,
+          "time": "0000",
+          "plan_id": "5"
+        },
+        {
+          "subsegment_id": 2,
+          "time": "0100",
+          "plan_id": "6"
+        },
+        {
+          "subsegment_id": 3,
+          "time": "0500",
+          "plan_id": "1"
+        },
+        {
+          "subsegment_id": 4,
+          "time": "0700",
+          "plan_id": "3"
+        },
+        {
+          "subsegment_id": 5,
+          "time": "0900",
+          "plan_id": "3"
+        },
+        {
+          "subsegment_id": 6,
+          "time": "1100",
+          "plan_id": "13"
+        },
+        {
+          "subsegment_id": 7,
+          "time": "1200",
+          "plan_id": "13"
+        },
+        {
+          "subsegment_id": 8,
+          "time": "2000",
+          "plan_id": "3"
+        },
+        {
+          "subsegment_id": 9,
+          "time": "2300",
+          "plan_id": "5"
+        }
+      ]
+    }
+  ],
+  "plan_overrides": {
+    "1": {
+      "plan_id": "1",
+      "cycle_time": 120,
+      "offset": 65,
+      "phaseorder": "0A",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 5,
+          "maxgreen": 210,
+          "yellow": 0,
+          "allred": 0,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 5
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 30,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 25,
+          "pedred": 4,
+          "green": 34
+        },
+        {
+          "subphaseid": 3,
+          "mingreen": 15,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 10,
+          "pedred": 5,
+          "green": 16
+        },
+        {
+          "subphaseid": 4,
+          "mingreen": 38,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 30,
+          "pedred": 7,
+          "green": 47
+        }
+      ],
+      "recommended_phase_durations": [
+        39,
+        7,
+        8,
+        8,
+        6,
+        39,
+        7,
+        6
+      ]
+    },
+    "2": {
+      "plan_id": "2",
+      "cycle_time": 200,
+      "offset": 105,
+      "phaseorder": "0A",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 5,
+          "maxgreen": 210,
+          "yellow": 0,
+          "allred": 0,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 5
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 40,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 20,
+          "pedred": 18,
+          "green": 52
+        },
+        {
+          "subphaseid": 3,
+          "mingreen": 32,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 15,
+          "pedred": 17,
+          "green": 32
+        },
+        {
+          "subphaseid": 4,
+          "mingreen": 72,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 20,
+          "pedred": 52,
+          "green": 93
+        }
+      ],
+      "recommended_phase_durations": [
+        67,
+        12,
+        14,
+        14,
+        6,
+        67,
+        14,
+        6
+      ]
+    },
+    "3": {
+      "plan_id": "3",
+      "cycle_time": 150,
+      "offset": 75,
+      "phaseorder": "0A",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 5,
+          "maxgreen": 210,
+          "yellow": 0,
+          "allred": 0,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 5
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 43,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 28,
+          "pedred": 10,
+          "green": 43
+        },
+        {
+          "subphaseid": 3,
+          "mingreen": 18,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 8,
+          "pedred": 10,
+          "green": 18
+        },
+        {
+          "subphaseid": 4,
+          "mingreen": 60,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 30,
+          "pedred": 26,
+          "green": 66
+        }
+      ],
+      "recommended_phase_durations": [
+        50,
+        9,
+        11,
+        11,
+        6,
+        50,
+        7,
+        6
+      ]
+    },
+    "4": {
+      "plan_id": "4",
+      "cycle_time": 200,
+      "offset": 105,
+      "phaseorder": "0A",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 5,
+          "maxgreen": 210,
+          "yellow": 0,
+          "allred": 0,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 5
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 52,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 30,
+          "pedred": 20,
+          "green": 56
+        },
+        {
+          "subphaseid": 3,
+          "mingreen": 32,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 15,
+          "pedred": 17,
+          "green": 32
+        },
+        {
+          "subphaseid": 4,
+          "mingreen": 66,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 20,
+          "pedred": 46,
+          "green": 89
+        }
+      ],
+      "recommended_phase_durations": [
+        67,
+        12,
+        14,
+        14,
+        6,
+        67,
+        14,
+        6
+      ]
+    },
+    "5": {
+      "plan_id": "5",
+      "cycle_time": 120,
+      "offset": 70,
+      "phaseorder": "26",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 28,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 4,
+          "pedgreenflash": 25,
+          "pedred": 3,
+          "green": 36
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 15,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 4,
+          "pedgreenflash": 10,
+          "pedred": 3,
+          "green": 15
+        },
+        {
+          "subphaseid": 3,
+          "mingreen": 33,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 4,
+          "pedgreenflash": 30,
+          "pedred": 3,
+          "green": 48
+        }
+      ],
+      "recommended_phase_durations": [
+        39,
+        7,
+        8,
+        8,
+        6,
+        39,
+        7,
+        6
+      ]
+    },
+    "6": {
+      "plan_id": "6",
+      "cycle_time": 100,
+      "offset": 65,
+      "phaseorder": "26",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 10,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 4,
+          "pedgreenflash": 7,
+          "pedred": 3,
+          "green": 33
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 10,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 4,
+          "pedgreenflash": 7,
+          "pedred": 3,
+          "green": 10
+        },
+        {
+          "subphaseid": 3,
+          "mingreen": 10,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 4,
+          "pedgreenflash": 7,
+          "pedred": 3,
+          "green": 36
+        }
+      ],
+      "recommended_phase_durations": [
+        32,
+        6,
+        7,
+        7,
+        6,
+        32,
+        4,
+        6
+      ]
+    },
+    "7": {
+      "plan_id": "7",
+      "cycle_time": 240,
+      "offset": 130,
+      "phaseorder": "A6",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 30,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 59
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 10,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 24
+        },
+        {
+          "subphaseid": 3,
+          "mingreen": 43,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 94
+        },
+        {
+          "subphaseid": 4,
+          "mingreen": 30,
+          "maxgreen": 210,
+          "yellow": 0,
+          "allred": 0,
+          "pedgreenflash": 25,
+          "pedred": 5,
+          "green": 45
+        }
+      ],
+      "recommended_phase_durations": [
+        82,
+        15,
+        18,
+        18,
+        6,
+        82,
+        13,
+        6
+      ]
+    },
+    "8": {
+      "plan_id": "8",
+      "cycle_time": 180,
+      "offset": 100,
+      "phaseorder": "0A",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 5,
+          "maxgreen": 210,
+          "yellow": 0,
+          "allred": 0,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 5
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 40,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 25,
+          "pedred": 14,
+          "green": 47
+        },
+        {
+          "subphaseid": 3,
+          "mingreen": 20,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 7,
+          "pedred": 13,
+          "green": 22
+        },
+        {
+          "subphaseid": 4,
+          "mingreen": 64,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 4,
+          "pedgreenflash": 20,
+          "pedred": 44,
+          "green": 87
+        }
+      ],
+      "recommended_phase_durations": [
+        60,
+        11,
+        13,
+        13,
+        6,
+        60,
+        11,
+        6
+      ]
+    },
+    "9": {
+      "plan_id": "9",
+      "cycle_time": 200,
+      "offset": 105,
+      "phaseorder": "0A",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 5,
+          "maxgreen": 210,
+          "yellow": 0,
+          "allred": 0,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 5
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 40,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 15,
+          "pedred": 20,
+          "green": 49
+        },
+        {
+          "subphaseid": 3,
+          "mingreen": 29,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 10,
+          "pedred": 19,
+          "green": 30
+        },
+        {
+          "subphaseid": 4,
+          "mingreen": 72,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 15,
+          "pedred": 57,
+          "green": 98
+        }
+      ],
+      "recommended_phase_durations": [
+        67,
+        12,
+        14,
+        14,
+        6,
+        67,
+        14,
+        6
+      ]
+    },
+    "10": {
+      "plan_id": "10",
+      "cycle_time": 200,
+      "offset": 100,
+      "phaseorder": "64",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 5,
+          "maxgreen": 210,
+          "yellow": 0,
+          "allred": 0,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 5
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 52,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 27,
+          "pedred": 20,
+          "green": 52
+        },
+        {
+          "subphaseid": 3,
+          "mingreen": 15,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 29
+        },
+        {
+          "subphaseid": 4,
+          "mingreen": 77,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 5,
+          "pedgreenflash": 25,
+          "pedred": 52,
+          "green": 94
+        }
+      ],
+      "recommended_phase_durations": [
+        67,
+        12,
+        14,
+        14,
+        6,
+        67,
+        14,
+        6
+      ]
+    },
+    "11": {
+      "plan_id": "11",
+      "cycle_time": 240,
+      "offset": 130,
+      "phaseorder": "A6",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 10,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 59
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 10,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 19
+        },
+        {
+          "subphaseid": 3,
+          "mingreen": 10,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 84
+        },
+        {
+          "subphaseid": 4,
+          "mingreen": 30,
+          "maxgreen": 210,
+          "yellow": 0,
+          "allred": 0,
+          "pedgreenflash": 25,
+          "pedred": 5,
+          "green": 60
+        }
+      ],
+      "recommended_phase_durations": [
+        82,
+        15,
+        18,
+        18,
+        6,
+        82,
+        13,
+        6
+      ]
+    },
+    "12": {
+      "plan_id": "12",
+      "cycle_time": 200,
+      "offset": 92,
+      "phaseorder": "0A",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 5,
+          "maxgreen": 210,
+          "yellow": 0,
+          "allred": 0,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 5
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 42,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 20,
+          "pedred": 20,
+          "green": 46
+        },
+        {
+          "subphaseid": 3,
+          "mingreen": 27,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 5,
+          "pedred": 22,
+          "green": 27
+        },
+        {
+          "subphaseid": 4,
+          "mingreen": 85,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 30,
+          "pedred": 55,
+          "green": 104
+        }
+      ],
+      "recommended_phase_durations": [
+        67,
+        12,
+        14,
+        14,
+        6,
+        67,
+        14,
+        6
+      ]
+    },
+    "13": {
+      "plan_id": "13",
+      "cycle_time": 200,
+      "offset": 92,
+      "phaseorder": "A6",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 19,
+          "maxgreen": 200,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 33
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 10,
+          "maxgreen": 200,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 21
+        },
+        {
+          "subphaseid": 3,
+          "mingreen": 52,
+          "maxgreen": 200,
+          "yellow": 0,
+          "allred": 0,
+          "pedgreenflash": 30,
+          "pedred": 5,
+          "green": 55
+        },
+        {
+          "subphaseid": 4,
+          "mingreen": 40,
+          "maxgreen": 200,
+          "yellow": 3,
+          "allred": 4,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 72
+        }
+      ],
+      "recommended_phase_durations": [
+        67,
+        12,
+        14,
+        14,
+        6,
+        67,
+        14,
+        6
+      ]
+    },
+    "14": {
+      "plan_id": "14",
+      "cycle_time": 150,
+      "offset": 75,
+      "phaseorder": "07",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 39,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 30,
+          "pedred": 3,
+          "green": 71
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 30,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 25,
+          "pedred": 3,
+          "green": 67
+        }
+      ],
+      "recommended_phase_durations": [
+        50,
+        9,
+        11,
+        11,
+        6,
+        50,
+        7,
+        6
+      ]
+    },
+    "15": {
+      "plan_id": "15",
+      "cycle_time": 240,
+      "offset": 130,
+      "phaseorder": "A6",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 10,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 59
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 10,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 19
+        },
+        {
+          "subphaseid": 3,
+          "mingreen": 10,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 84
+        },
+        {
+          "subphaseid": 4,
+          "mingreen": 30,
+          "maxgreen": 210,
+          "yellow": 0,
+          "allred": 0,
+          "pedgreenflash": 25,
+          "pedred": 5,
+          "green": 60
+        }
+      ],
+      "recommended_phase_durations": [
+        82,
+        15,
+        18,
+        18,
+        6,
+        82,
+        13,
+        6
+      ]
+    },
+    "16": {
+      "plan_id": "16",
+      "cycle_time": 240,
+      "offset": 130,
+      "phaseorder": "A6",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 10,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 59
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 10,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 24
+        },
+        {
+          "subphaseid": 3,
+          "mingreen": 10,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 94
+        },
+        {
+          "subphaseid": 4,
+          "mingreen": 30,
+          "maxgreen": 210,
+          "yellow": 0,
+          "allred": 0,
+          "pedgreenflash": 25,
+          "pedred": 5,
+          "green": 45
+        }
+      ],
+      "recommended_phase_durations": [
+        82,
+        15,
+        18,
+        18,
+        6,
+        82,
+        13,
+        6
+      ]
+    },
+    "18": {
+      "plan_id": "18",
+      "cycle_time": 240,
+      "offset": 130,
+      "phaseorder": "26",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 60,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 30,
+          "pedred": 14,
+          "green": 114
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 10,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 19
+        },
+        {
+          "subphaseid": 3,
+          "mingreen": 86,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 30,
+          "pedred": 48,
+          "green": 89
+        }
+      ],
+      "recommended_phase_durations": [
+        82,
+        15,
+        18,
+        18,
+        6,
+        82,
+        13,
+        6
+      ]
+    },
+    "20": {
+      "plan_id": "20",
+      "cycle_time": 200,
+      "offset": 103,
+      "phaseorder": "26",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 50,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 30,
+          "pedred": 14,
+          "green": 64
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 10,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 24
+        },
+        {
+          "subphaseid": 3,
+          "mingreen": 85,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 30,
+          "pedred": 49,
+          "green": 94
+        }
+      ],
+      "recommended_phase_durations": [
+        67,
+        12,
+        14,
+        14,
+        6,
+        67,
+        14,
+        6
+      ]
+    },
+    "21": {
+      "plan_id": "21",
+      "cycle_time": 200,
+      "offset": 103,
+      "phaseorder": "26",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 50,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 30,
+          "pedred": 14,
+          "green": 64
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 10,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 24
+        },
+        {
+          "subphaseid": 3,
+          "mingreen": 85,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 30,
+          "pedred": 49,
+          "green": 94
+        }
+      ],
+      "recommended_phase_durations": [
+        67,
+        12,
+        14,
+        14,
+        6,
+        67,
+        14,
+        6
+      ]
+    },
+    "22": {
+      "plan_id": "22",
+      "cycle_time": 150,
+      "offset": 90,
+      "phaseorder": "06",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 22,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 17,
+          "pedred": 4,
+          "green": 54
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 52,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 17,
+          "pedred": 34,
+          "green": 84
+        }
+      ],
+      "recommended_phase_durations": [
+        50,
+        9,
+        11,
+        11,
+        6,
+        50,
+        7,
+        6
+      ]
+    },
+    "23": {
+      "plan_id": "23",
+      "cycle_time": 200,
+      "offset": 120,
+      "phaseorder": "06",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 42,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 2,
+          "pedgreenflash": 17,
+          "pedred": 24,
+          "green": 85
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 72,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 2,
+          "pedgreenflash": 17,
+          "pedred": 54,
+          "green": 105
+        }
+      ],
+      "recommended_phase_durations": [
+        67,
+        12,
+        14,
+        14,
+        6,
+        67,
+        14,
+        6
+      ]
+    },
+    "24": {
+      "plan_id": "24",
+      "cycle_time": 240,
+      "offset": 130,
+      "phaseorder": "06",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 42,
+          "maxgreen": 250,
+          "yellow": 3,
+          "allred": 2,
+          "pedgreenflash": 17,
+          "pedred": 24,
+          "green": 115
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 72,
+          "maxgreen": 250,
+          "yellow": 3,
+          "allred": 2,
+          "pedgreenflash": 17,
+          "pedred": 54,
+          "green": 115
+        }
+      ],
+      "recommended_phase_durations": [
+        82,
+        15,
+        18,
+        18,
+        6,
+        82,
+        13,
+        6
+      ]
+    },
+    "25": {
+      "plan_id": "25",
+      "cycle_time": 180,
+      "offset": 100,
+      "phaseorder": "06",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 42,
+          "maxgreen": 250,
+          "yellow": 3,
+          "allred": 2,
+          "pedgreenflash": 17,
+          "pedred": 24,
+          "green": 75
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 72,
+          "maxgreen": 250,
+          "yellow": 3,
+          "allred": 2,
+          "pedgreenflash": 17,
+          "pedred": 54,
+          "green": 95
+        }
+      ],
+      "recommended_phase_durations": [
+        60,
+        11,
+        13,
+        13,
+        6,
+        60,
+        11,
+        6
+      ]
+    },
+    "26": {
+      "plan_id": "26",
+      "cycle_time": 200,
+      "offset": 140,
+      "phaseorder": "A6",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 10,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 44
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 10,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 14
+        },
+        {
+          "subphaseid": 3,
+          "mingreen": 10,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 79
+        },
+        {
+          "subphaseid": 4,
+          "mingreen": 30,
+          "maxgreen": 210,
+          "yellow": 0,
+          "allred": 0,
+          "pedgreenflash": 20,
+          "pedred": 5,
+          "green": 45
+        }
+      ],
+      "recommended_phase_durations": [
+        67,
+        12,
+        14,
+        14,
+        6,
+        67,
+        14,
+        6
+      ]
+    },
+    "27": {
+      "plan_id": "27",
+      "cycle_time": 200,
+      "offset": 105,
+      "phaseorder": "26",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 60,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 30,
+          "pedred": 14,
+          "green": 64
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 10,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 19
+        },
+        {
+          "subphaseid": 3,
+          "mingreen": 80,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 30,
+          "pedred": 49,
+          "green": 99
+        }
+      ],
+      "recommended_phase_durations": [
+        67,
+        12,
+        14,
+        14,
+        6,
+        67,
+        14,
+        6
+      ]
+    },
+    "30": {
+      "plan_id": "30",
+      "cycle_time": 200,
+      "offset": 92,
+      "phaseorder": "A6",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 19,
+          "maxgreen": 200,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 33
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 10,
+          "maxgreen": 200,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 18
+        },
+        {
+          "subphaseid": 3,
+          "mingreen": 52,
+          "maxgreen": 200,
+          "yellow": 0,
+          "allred": 0,
+          "pedgreenflash": 30,
+          "pedred": 5,
+          "green": 55
+        },
+        {
+          "subphaseid": 4,
+          "mingreen": 40,
+          "maxgreen": 200,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 76
+        }
+      ],
+      "recommended_phase_durations": [
+        67,
+        12,
+        14,
+        14,
+        6,
+        67,
+        14,
+        6
+      ]
+    },
+    "31": {
+      "plan_id": "31",
+      "cycle_time": 200,
+      "offset": 105,
+      "phaseorder": "A6",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 25,
+          "maxgreen": 200,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 31
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 15,
+          "maxgreen": 200,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 22
+        },
+        {
+          "subphaseid": 3,
+          "mingreen": 49,
+          "maxgreen": 200,
+          "yellow": 0,
+          "allred": 0,
+          "pedgreenflash": 20,
+          "pedred": 5,
+          "green": 50
+        },
+        {
+          "subphaseid": 4,
+          "mingreen": 40,
+          "maxgreen": 200,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 79
+        }
+      ],
+      "recommended_phase_durations": [
+        67,
+        12,
+        14,
+        14,
+        6,
+        67,
+        14,
+        6
+      ]
+    },
+    "33": {
+      "plan_id": "33",
+      "cycle_time": 200,
+      "offset": 92,
+      "phaseorder": "26",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 42,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 20,
+          "pedred": 20,
+          "green": 51
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 27,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 5,
+          "pedred": 22,
+          "green": 27
+        },
+        {
+          "subphaseid": 3,
+          "mingreen": 85,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 30,
+          "pedred": 55,
+          "green": 104
+        }
+      ],
+      "recommended_phase_durations": [
+        67,
+        12,
+        14,
+        14,
+        6,
+        67,
+        14,
+        6
+      ]
+    },
+    "34": {
+      "plan_id": "34",
+      "cycle_time": 200,
+      "offset": 105,
+      "phaseorder": "26",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 55,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 30,
+          "pedred": 22,
+          "green": 59
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 10,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 24
+        },
+        {
+          "subphaseid": 3,
+          "mingreen": 85,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 30,
+          "pedred": 54,
+          "green": 99
+        }
+      ],
+      "recommended_phase_durations": [
+        67,
+        12,
+        14,
+        14,
+        6,
+        67,
+        14,
+        6
+      ]
+    },
+    "35": {
+      "plan_id": "35",
+      "cycle_time": 200,
+      "offset": 103,
+      "phaseorder": "26",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 55,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 30,
+          "pedred": 22,
+          "green": 59
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 10,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 24
+        },
+        {
+          "subphaseid": 3,
+          "mingreen": 85,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 30,
+          "pedred": 54,
+          "green": 99
+        }
+      ],
+      "recommended_phase_durations": [
+        67,
+        12,
+        14,
+        14,
+        6,
+        67,
+        14,
+        6
+      ]
+    },
+    "37": {
+      "plan_id": "37",
+      "cycle_time": 200,
+      "offset": 100,
+      "phaseorder": "64",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 5,
+          "maxgreen": 210,
+          "yellow": 0,
+          "allred": 0,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 5
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 52,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 27,
+          "pedred": 20,
+          "green": 52
+        },
+        {
+          "subphaseid": 3,
+          "mingreen": 15,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 29
+        },
+        {
+          "subphaseid": 4,
+          "mingreen": 77,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 5,
+          "pedgreenflash": 25,
+          "pedred": 52,
+          "green": 94
+        }
+      ],
+      "recommended_phase_durations": [
+        67,
+        12,
+        14,
+        14,
+        6,
+        67,
+        14,
+        6
+      ]
+    },
+    "38": {
+      "plan_id": "38",
+      "cycle_time": 200,
+      "offset": 100,
+      "phaseorder": "64",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 5,
+          "maxgreen": 210,
+          "yellow": 0,
+          "allred": 0,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 5
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 52,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 27,
+          "pedred": 20,
+          "green": 52
+        },
+        {
+          "subphaseid": 3,
+          "mingreen": 15,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 29
+        },
+        {
+          "subphaseid": 4,
+          "mingreen": 77,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 5,
+          "pedgreenflash": 25,
+          "pedred": 52,
+          "green": 94
+        }
+      ],
+      "recommended_phase_durations": [
+        67,
+        12,
+        14,
+        14,
+        6,
+        67,
+        14,
+        6
+      ]
+    },
+    "39": {
+      "plan_id": "39",
+      "cycle_time": 200,
+      "offset": 92,
+      "phaseorder": "A6",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 19,
+          "maxgreen": 200,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 33
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 10,
+          "maxgreen": 200,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 18
+        },
+        {
+          "subphaseid": 3,
+          "mingreen": 52,
+          "maxgreen": 200,
+          "yellow": 0,
+          "allred": 0,
+          "pedgreenflash": 30,
+          "pedred": 5,
+          "green": 55
+        },
+        {
+          "subphaseid": 4,
+          "mingreen": 40,
+          "maxgreen": 200,
+          "yellow": 3,
+          "allred": 4,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 75
+        }
+      ],
+      "recommended_phase_durations": [
+        67,
+        12,
+        14,
+        14,
+        6,
+        67,
+        14,
+        6
+      ]
+    },
+    "48": {
+      "plan_id": "48",
+      "cycle_time": 200,
+      "offset": 105,
+      "phaseorder": "0A",
+      "direction": 4,
+      "subplan": [
+        {
+          "subphaseid": 1,
+          "mingreen": 5,
+          "maxgreen": 210,
+          "yellow": 0,
+          "allred": 0,
+          "pedgreenflash": 0,
+          "pedred": 0,
+          "green": 5
+        },
+        {
+          "subphaseid": 2,
+          "mingreen": 51,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 20,
+          "pedred": 20,
+          "green": 51
+        },
+        {
+          "subphaseid": 3,
+          "mingreen": 32,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 15,
+          "pedred": 17,
+          "green": 32
+        },
+        {
+          "subphaseid": 4,
+          "mingreen": 72,
+          "maxgreen": 210,
+          "yellow": 3,
+          "allred": 3,
+          "pedgreenflash": 20,
+          "pedred": 52,
+          "green": 94
+        }
+      ],
+      "recommended_phase_durations": [
+        67,
+        12,
+        14,
+        14,
+        6,
+        67,
+        14,
+        6
+      ]
+    }
+  },
+  "pedestrian_phase_groups": [
+    {
+      "phase_index": 0,
+      "crossing_ids": [
+        ":cluster_181184587_253559061_618865977_618865982_c4",
+        ":cluster_181184587_253559061_618865977_618865982_c1",
+        ":cluster_181184587_253559061_618865977_618865982_c0",
+        ":cluster_181184587_253559061_618865977_618865982_c3"
+      ],
+      "crossing_edges": [
+        "196961202#0",
+        "198922264#0",
+        "506316041#3",
+        "405980657#1"
+      ]
+    },
+    {
+      "phase_index": 5,
+      "crossing_ids": [
+        ":cluster_181184587_253559061_618865977_618865982_c2"
+      ],
+      "crossing_edges": [
+        "506322861#1"
+      ]
+    }
+  ],
+  "notes": [
+    "recommended_phase_durations preserves the current SUMO phase states and rescales the cycle to the official Taipei timing plan.",
+    "pedestrian_phase_groups are derived from SUMO linkIndex mappings and identify which pedestrian crossings are green in each phase."
+  ]
+}

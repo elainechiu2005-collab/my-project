@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="ped_adult" vClass="pedestrian" speedFactor="1.0" speedDev="0.1"/>
+    <vType id="ped_slow" vClass="pedestrian" speedFactor="0.67" speedDev="0.05"/>
+    <personFlow id="ped_phase0_adult" type="ped_adult" begin="0" end="3600" number="0">
+        <walk from="506316041#3" to="196961202#0"/>
+    </personFlow>
+    <personFlow id="ped_phase0_slow" type="ped_slow" begin="0" end="3600" number="0">
+        <walk from="405980657#1" to="198922264#0"/>
+    </personFlow>
+    <personFlow id="ped_phase5_adult" type="ped_adult" begin="0" end="3600" number="0">
+        <walk from="623877960#1" to="623877957#0"/>
+    </personFlow>
+    <personFlow id="ped_phase5_slow" type="ped_slow" begin="0" end="3600" number="86">
+        <walk from="623877960#1" to="623877957#0"/>
+    </personFlow>
+</routes>
