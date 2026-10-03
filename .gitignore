@@ -5,3 +5,7 @@ __pycache__/
 # Model cache
 畢業專題/ios_app/MobileCLIPExplore/Models/.model-cache/
 
+
+# macOS / Office
+.DS_Store
+~$*

@@ -10,7 +10,9 @@
 | [`平行程式設計期末`](平行程式設計期末) | N-body 重力模擬（Barnes-Hut）：Serial、OpenMP、MPI、MPI+OpenMP、Master-Worker 五種版本與效能實驗報告 | 個人 | 全部 |
 | [`智慧物聯網 AIoT/Final Project`](智慧物聯網%20AIoT/Final%20Project) | 智慧路口行人安全系統：YOLOv8 偵測慢行行人，透過 SUMO 模擬延長綠燈 | 兩人小組 | YOLO 偵測、ByteTrack 追蹤與速度估計模組（`project/yolov8`） |
 | [`智慧物聯網 AIoT/HW1`](智慧物聯網%20AIoT/HW1)、[`HW2`](智慧物聯網%20AIoT/HW2) | Q-learning、DQN 作業 | 個人 | 全部 |
-| [`自然語言處理期末`](自然語言處理期末) | Kaggle「MAP – Charting Student Math Misunderstandings」 | 四人小組 | BGE 語意檢索模組（資料夾內只放我實作的部分） |
+| [`電腦視覺期末`](電腦視覺期末) | 氣胸 X 光影像分割（Kaggle SIIM-ACR）：DICOM 醫學影像前處理、U-Net++ 語意分割 | 五人小組 | 模型架構（U-Net++ 選擇）、訓練與除錯 |
+| [`雲端系統期末`](雲端系統期末) | 外送路徑最佳化系統：以 Docker 建立 Master／Worker 叢集，分工計算多點配送的最短路線（TSP） | 兩人小組 | 網頁儀表板（HTML5 Canvas 地圖）、任務切割與分發、任務佇列與取消 API、即時監控介面 |
+| [`自然語言處理期末`](自然語言處理期末) | Kaggle「MAP – Charting Student Math Misunderstandings」 | 四人小組 | BGE 語意檢索模組（資料夾內放我實作的程式、我負責部分的書面報告（`NLP期末報告_邱庭俞負責部分.docx`）與團隊期末簡報） |
 | [`多媒體資訊概論/HW1`](多媒體資訊概論/HW1)、[`HW2`](多媒體資訊概論/HW2) | DFT 濾波、HSI 影像處理 | 個人 | 全部 |
 
 ## 各作品說明
@@ -32,7 +34,17 @@
 - 慢行事件透過 HTTP API 送到組員的 SUMO／TraCI 模擬，延長行人綠燈。
 - 詳見 `智慧物聯網期末報告.pdf`。
 
+### 電腦視覺期末：氣胸 X 光影像分割
+- 在 12,000 多張 DICOM 胸部 X 光上做氣胸的二元語意分割；處理 RescaleSlope／Intercept、MONOCHROME1 反相與百分位裁切。
+- 我負責模型架構（比較 U-Net 與 U-Net++ 後選用 U-Net++）、訓練與除錯。
+- 團隊模型在 Kaggle 停在 0.7740（與全部預測為無氣胸相同），除錯後找到 RLE 編碼、推論門檻與前處理不一致等問題，並提出先分類、再分割的改進方向。詳見 `第六組_CV期末專題.pdf`。
+
+### 雲端系統期末：外送路徑最佳化系統
+- 使用者在網頁地圖上點選多個地點，系統找出經過所有地點再回到起點的最短路線。窮舉的計算量是 O(N!)，因此由 Master 把任務切開，分給三個 Worker 容器計算。
+- 我負責：HTML5 Canvas 地圖與路線繪製、以固定前綴切割任務、記憶體任務佇列與取消 API、CPU 使用率與任務狀態的即時監控圖表。
+- 程式在 `CloudDelivery/`（Master 為 FastAPI 服務，Worker 以 Docker 容器執行），簡報見 `雲端系統期末.pdf`。
+
 ### 自然語言處理期末：Kaggle 學生數學迷思概念分類
-- 組員以 DeBERTa-v3-base 建立分類模型；我負責加入 BGE 語意檢索：以 MNRL 微調 BGE-large（9,821 組訓練樣本），並設計 Global／Local 兩層代表向量，把搜尋範圍從 35 類縮小到平均 2～4 類。
-- 結果：純 DeBERTa（組員）Public 0.90084 為最佳；加入檢索的各版本介於 0.80502～0.90071。
-- 分析：BGE 的 Recall@3 為 99.94%，但 Recall@1 只有 71.90%，找得到候選卻排不準第一名；改用 hard negative 與任務指令重新微調後，融合分數從 0.90061 提升到 0.90071。
+- 四人小組。組員以 DeBERTa 建立分類模型；我負責加入 BGE 語意檢索：以 MNRL 微調 BGE-large（9,821 組訓練樣本），並設計 Global／Local 兩層代表向量，把搜尋範圍從 35 類縮小到平均 2～4 類。
+- 結果：以組員的 DeBERTa-v3-base（Public 0.90084）為基準，加入檢索的各版本介於 0.80502～0.90071，沒有超過基準。
+- 分析：BGE 的 Recall@3 為 99.94%，但 Recall@1 只有 71.90%，找得到候選卻排不準第一名；改用 hard negative 與任務指令重新微調後，融合分數從 0.90061 提升到 0.90071。團隊最後不採用檢索，改由組員升級為 DeBERTa-v3-large，Public 分數達 0.93081。

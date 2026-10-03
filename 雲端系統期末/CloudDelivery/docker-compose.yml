@@ -1,0 +1,34 @@
+services:
+  master-node:
+    image: python:3.9-slim
+    ports:
+      - "80:80"
+    volumes:
+      - ./master.py:/app/master.py
+      - ./index.html:/app/index.html
+    working_dir: /app
+    command: bash -c "pip install --no-cache-dir fastapi uvicorn requests websockets && python -u master.py"
+
+  worker-1:
+    build: ./worker
+    environment:
+      - WORKER_ID=worker-1
+      - MASTER_URL=http://master-node:80
+    depends_on:
+      - master-node
+
+  worker-2:
+    build: ./worker
+    environment:
+      - WORKER_ID=worker-2
+      - MASTER_URL=http://master-node:80
+    depends_on:
+      - master-node
+
+  worker-3:
+    build: ./worker
+    environment:
+      - WORKER_ID=worker-3
+      - MASTER_URL=http://master-node:80
+    depends_on:
+      - master-node
